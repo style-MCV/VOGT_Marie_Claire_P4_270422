@@ -300,6 +300,8 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    height: 40px;
+    width: 217px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -770,9 +772,9 @@ h4 {
 }
 
 .tc-white {
-    color: #5dcef0  !important;
+    color: #FFFFFF !important;
 }
-
+/*#5dcef0 bleu clair*/
 .col-sm-12 p {
     color: #000000  !important;
 }
