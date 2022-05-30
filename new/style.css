@@ -322,7 +322,7 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -511,7 +511,7 @@ button {
     width: 40px;
     height: 40px;
     position: fixed;
-    bottom: 20px;
+    top: 20px;
     right: 20px;
     opacity: 0;
     z-index: 500;
@@ -656,7 +656,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 35px;
 }
 
 .hero-bloc-text-sub {
@@ -674,11 +674,11 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 22px;
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    width: 100%;
     margin: auto auto auto auto;
 }
 
@@ -702,12 +702,12 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 25px;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 23px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -772,7 +772,7 @@ h4 {
 }
 
 .tc-white {
-    color: #FFFFFF !important;
+    color: #000000 !important;
 }
 /*#5dcef0 bleu clair*/
 .col-sm-12 p {
@@ -889,6 +889,24 @@ h4 {
     .page-container {
         overflow-x: hidden;
         position: relative;
+    }
+    #bloc-1-hero h1 {
+        font-size: 26px;
+    }
+    h2 {
+        font-size: 23px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 20px;
+    }  
+    .hero-bloc-text {
+        font-size: 30px;
+    }
+    .nav > li {
+        font-size: 18px;
     }
     h1,
     h2,

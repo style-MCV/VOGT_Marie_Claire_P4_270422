@@ -1390,7 +1390,7 @@ html {
 
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 1.42857143;
     color: #333;
     background-color: #fff
@@ -1859,7 +1859,7 @@ abbr[title] {
 blockquote {
     padding: 10px 20px;
     margin: 0 0 20px;
-    font-size: 18px;
+    font-size: 22px;
     color: #575757;
     font-weight: 500;
 }
