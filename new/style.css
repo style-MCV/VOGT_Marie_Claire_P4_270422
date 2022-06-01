@@ -7,6 +7,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+textarea {
+    text-align: left;
+}
 a,
 button {
     transition: all .3s ease-in-out;
